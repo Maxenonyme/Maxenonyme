@@ -41,7 +41,12 @@ Developing custom mechanics, rendering pipelines, and server-side optimization e
 
 ---
 
-### 📬 Scientific Collaboration & Projects
+### 📬 Connect & Platforms
 I am open to collaborations on Mechanistic Interpretability, Grokking research, advanced Java engine optimization, or any project pushing the boundaries of non-probabilistic logic.
 
-* **Email:** [ronoxdev.contact@gmail.com](mailto:ronoxdev.contact@gmail.com)
+* 📧 **Email:** [ronoxdev.contact@gmail.com](mailto:ronoxdev.contact@gmail.com)
+* 💬 **Discord:** [@Maxenonyme](https://discordapp.com/users/1488807506720587806)
+* 🐦 **X (Twitter):** [Maxenonyme](https://twitter.com/TonLienTwitter)
+
+**Discover my Modding Projects:** [![CurseForge](https://img.shields.io/badge/CurseForge-F16436?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/members/maxenonyme/projects)
+[![Modrinth](https://img.shields.io/badge/Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/user/Maxenonyme)
