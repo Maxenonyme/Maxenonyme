@@ -35,7 +35,6 @@ Developing custom mechanics, rendering pipelines, and server-side optimization e
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Mathematics](https://img.shields.io/badge/Mathematics-000000?style=for-the-badge&logo=mathematica&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -46,7 +45,6 @@ I am open to collaborations on Mechanistic Interpretability, Grokking research, 
 
 * 📧 **Email:** [ronoxdev.contact@gmail.com](mailto:ronoxdev.contact@gmail.com)
 * 💬 **Discord:** [@Maxenonyme](https://discordapp.com/users/1488807506720587806)
-* 🐦 **X (Twitter):** [Maxenonyme](https://twitter.com/TonLienTwitter)
 
 **Discover my Modding Projects:** [![CurseForge](https://img.shields.io/badge/CurseForge-F16436?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/members/maxenonyme/projects)
 [![Modrinth](https://img.shields.io/badge/Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/user/Maxenonyme)
